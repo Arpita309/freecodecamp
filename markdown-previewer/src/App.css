@@ -1,0 +1,17 @@
+#editor{
+  height:1000px;
+  width: 300px;
+  background-color:#c7ecee;
+  
+}
+body{
+  background-color:#00d8d6;
+}
+#preview{
+  background-color:#c7ecee ;
+  height: 1000px;
+  
+}
+#heading,#h2,#h3{
+  color: #ED4C67;
+}
