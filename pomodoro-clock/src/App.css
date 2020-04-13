@@ -1,0 +1,62 @@
+.settings {
+  display: flex;
+  justify-content: space-around;
+}
+.SetTimer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: cursive;
+}
+
+.SetTimer-controls {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.Timer {
+  display: flex;
+  flex-direction:column;
+  align-items: center;
+ font-family: cursive;
+ 
+}
+
+.Controls {
+  display: flex;
+  justify-content: center;
+  font-family: cursive;
+  
+}
+#start_stop,#reset{
+  background-color: black;
+  color:white;
+  margin-right: 10px;
+  margin-left: 10px;
+  font-size: x-large;
+}
+body{
+ 
+    background: url('icons8-team-dhZtNlvNE8M-unsplash.jpg') no-repeat top center;
+    background-size: cover !important;
+   -webkit-background-size: cover !important;
+   
+    
+}
+#header{
+  display: flex;
+  justify-content: center;
+  font-style: italic;
+  font-family: cursive;
+  color:#485460;
+}
+#session-increment,#session-decrement,#break-increment,#break-decrement{
+  background-color: #485460;
+  color:white;
+  margin-right: 10px;
+  margin-left: 10px;
+  font-size: x-large;
+}
+
